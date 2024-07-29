@@ -1,0 +1,7 @@
+C:\Users\esdra\Desktop\University\2024\Q3-2024\Programacion II\EjericioAbstraccion\EjericioAbstraccion\bin\Debug\EjericioAbstraccion.exe.config
+C:\Users\esdra\Desktop\University\2024\Q3-2024\Programacion II\EjericioAbstraccion\EjericioAbstraccion\bin\Debug\EjericioAbstraccion.exe
+C:\Users\esdra\Desktop\University\2024\Q3-2024\Programacion II\EjericioAbstraccion\EjericioAbstraccion\bin\Debug\EjericioAbstraccion.pdb
+C:\Users\esdra\Desktop\University\2024\Q3-2024\Programacion II\EjericioAbstraccion\EjericioAbstraccion\obj\Debug\EjericioAbstraccion.csproj.AssemblyReference.cache
+C:\Users\esdra\Desktop\University\2024\Q3-2024\Programacion II\EjericioAbstraccion\EjericioAbstraccion\obj\Debug\EjericioAbstraccion.csproj.CoreCompileInputs.cache
+C:\Users\esdra\Desktop\University\2024\Q3-2024\Programacion II\EjericioAbstraccion\EjericioAbstraccion\obj\Debug\EjericioAbstraccion.exe
+C:\Users\esdra\Desktop\University\2024\Q3-2024\Programacion II\EjericioAbstraccion\EjericioAbstraccion\obj\Debug\EjericioAbstraccion.pdb
